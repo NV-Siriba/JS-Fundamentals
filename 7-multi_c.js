@@ -4,6 +4,6 @@ if(isNaN(numX))
     {console.log('Missing number of occurrences');}
 else
  {let i=0;
-while(i<=numX){
+while (i<numX){
     console.log("C is fun")
     i++;}}
